@@ -47,7 +47,7 @@ Compile for Android
 You need:
 * Android NDK installed in your system and in path variable
 
-* This repository cloned with all submodules (`--recursive` flag in `git clone` or `git submodules update` command run)
+* This repository cloned with all submodules (`--recursive` flag in `git clone` or `git submodule update` command run)
 
 Just run `ndk-build` - built executables for some architectures should be created inside `libs` directory.
 Copy it to your phone and enjoy.
